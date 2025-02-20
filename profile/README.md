@@ -95,7 +95,6 @@ Sky Modules thrives on collaboration! Here's how you can get involved:
 Follow us for updates and new releases:
 
 - [GitHub Organization](https://github.com/SkyModules)
-- [Twitter](#) (Coming Soon)
 - [Discord](#) (Coming Soon)
 
 ---
