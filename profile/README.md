@@ -96,6 +96,7 @@ Follow us for updates and new releases:
 
 - [GitHub Organization](https://github.com/SkyModules)
 - [Discord](#) (Coming Soon)
+- [skymodules.bsky.social](skymodules.bsky.social)
 
 ---
 
